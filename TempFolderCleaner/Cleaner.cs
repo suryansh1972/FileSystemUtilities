@@ -12,6 +12,7 @@ public class TempClean
         var files1 = Directory.GetFiles(tempPath2, "*.*", SearchOption.AllDirectories);
         var files2 = Directory.GetFiles(tempPath1,"*.*",SearchOption.AllDirectories);
         
+        //Deletes all directories in tempPath1
         foreach(var dir in dirs)
         {
             if(Directory.Exists(dir))
@@ -23,6 +24,7 @@ public class TempClean
         }
         Console.WriteLine("Cleaning files");
 
+        //Deletes all files in temp path
         foreach( var file in files1)
         {
             var info = new FileInfo(file);
@@ -31,6 +33,7 @@ public class TempClean
             info.Delete();
         }
 
+        //Deletes all files in temp path 2
         foreach (var file in files2)
         {
             var info = new FileInfo(file);
