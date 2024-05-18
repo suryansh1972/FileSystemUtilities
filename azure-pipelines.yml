@@ -16,7 +16,18 @@ variables:
 
 steps:
 - task: NuGetToolInstaller@1
-
+  name: 'NugetToolInstaller'
+  displayName : 'Nuget tool Installer'
+- task: NuGetCommand@2
+  inputs:
+    command: 'restore'
+    restoreSolution: '**/*.sln'
+    feedsToUse: 'select'
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'test'
+    projects: '$(solution)'
+    arguments: '--configuration $(buildConfiguration)'
 - task: NuGetCommand@2
   inputs:
     restoreSolution: '$(solution)'
