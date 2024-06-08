@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TempFolderCleaner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ecbd95764d3b65813af9de74de60ee348ff258a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TempFolderCleaner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TempFolderCleaner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

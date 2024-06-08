@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FileSorter
-build_property.ProjectDir = C:\Users\SURYANSH\Visual Studio Source\C#\TempFolderCleaner\FileSorter\
+build_property.ProjectDir = C:\Users\Surya\Visual Studio Source\C#\TempFolderCleaner\FileSorter\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
