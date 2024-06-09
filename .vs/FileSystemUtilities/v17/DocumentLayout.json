@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Surya\\Visual Studio Source\\C#\\TempFolderCleaner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D11967C-7012-450F-AD7D-95D4E8403120}|TempFolderCleaner\\TempFolderCleaner.csproj|c:\\users\\surya\\visual studio source\\c#\\tempfoldercleaner\\tempfoldercleaner\\cleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D11967C-7012-450F-AD7D-95D4E8403120}|TempFolderCleaner\\TempFolderCleaner.csproj|solutionrelative:tempfoldercleaner\\cleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF70F1C-F086-449D-B9C6-B888888D4090}|FileSorter\\FileSorter.csproj|c:\\users\\surya\\visual studio source\\c#\\tempfoldercleaner\\filesorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF70F1C-F086-449D-B9C6-B888888D4090}|FileSorter\\FileSorter.csproj|solutionrelative:filesorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D11967C-7012-450F-AD7D-95D4E8403120}|TempFolderCleaner\\TempFolderCleaner.csproj|c:\\users\\surya\\visual studio source\\c#\\tempfoldercleaner\\tempfoldercleaner\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9D11967C-7012-450F-AD7D-95D4E8403120}|TempFolderCleaner\\TempFolderCleaner.csproj|solutionrelative:tempfoldercleaner\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D11967C-7012-450F-AD7D-95D4E8403120}|TempFolderCleaner\\TempFolderCleaner.csproj|c:\\users\\surya\\visual studio source\\c#\\tempfoldercleaner\\tempfoldercleaner\\tempfoldercleaner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D11967C-7012-450F-AD7D-95D4E8403120}|TempFolderCleaner\\TempFolderCleaner.csproj|solutionrelative:tempfoldercleaner\\tempfoldercleaner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\Surya\\Visual Studio Source\\C#\\TempFolderCleaner\\TempFolderCleaner\\app.manifest",
+              "RelativeDocumentMoniker": "TempFolderCleaner\\app.manifest",
+              "ToolTip": "C:\\Users\\Surya\\Visual Studio Source\\C#\\TempFolderCleaner\\TempFolderCleaner\\app.manifest",
+              "RelativeToolTip": "TempFolderCleaner\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-05-15T12:07:10.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TempFolderCleaner.csproj",
+              "DocumentMoniker": "C:\\Users\\Surya\\Visual Studio Source\\C#\\TempFolderCleaner\\TempFolderCleaner\\TempFolderCleaner.csproj",
+              "RelativeDocumentMoniker": "TempFolderCleaner\\TempFolderCleaner.csproj",
+              "ToolTip": "C:\\Users\\Surya\\Visual Studio Source\\C#\\TempFolderCleaner\\TempFolderCleaner\\TempFolderCleaner.csproj",
+              "RelativeToolTip": "TempFolderCleaner\\TempFolderCleaner.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T12:07:10.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Surya\\Visual Studio Source\\C#\\TempFolderCleaner\\FileSorter\\Program.cs",
+              "RelativeDocumentMoniker": "FileSorter\\Program.cs",
+              "ToolTip": "C:\\Users\\Surya\\Visual Studio Source\\C#\\TempFolderCleaner\\FileSorter\\Program.cs",
+              "RelativeToolTip": "FileSorter\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:07:10.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cleaner.cs",
+              "DocumentMoniker": "C:\\Users\\Surya\\Visual Studio Source\\C#\\TempFolderCleaner\\TempFolderCleaner\\Cleaner.cs",
+              "RelativeDocumentMoniker": "TempFolderCleaner\\Cleaner.cs",
+              "ToolTip": "C:\\Users\\Surya\\Visual Studio Source\\C#\\TempFolderCleaner\\TempFolderCleaner\\Cleaner.cs",
+              "RelativeToolTip": "TempFolderCleaner\\Cleaner.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:07:10.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
