@@ -5,8 +5,8 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 
 # Copy the .csproj file and restore dependencies
-COPY FileSystemUtilities/*.csproj ./FileSystemUtilities/
-RUN dotnet restore ./FileSystemUtilities/FileSystemUtilities.csproj
+COPY ["C:\Users\Surya\Visual Studio Source\C#\TempFolderCleaner\TempFolderCleaner\TempFolderCleaner.csproj", "FileSystemUtilities/"]
+RUN dotnet restore "FileSystemUtilities/FileSystemUtilities.csproj"
 
 # Copy the rest of the application files and build the application
 COPY . .
