@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempFolderCleaner", "TempFolderCleaner\TempFolderCleaner.csproj", "{9D11967C-7012-450F-AD7D-95D4E8403120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemUtilities", "FileSystemUtilities\FileSystemUtilities.csproj", "{9D11967C-7012-450F-AD7D-95D4E8403120}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSorter", "FileSorter\FileSorter.csproj", "{9CF70F1C-F086-449D-B9C6-B888888D4090}"
 EndProject
